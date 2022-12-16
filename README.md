@@ -46,6 +46,8 @@
 
     {call_status} {first_person} {second_person} at {timing}
     
+### В файле [out.txt](code/out.txt) есть пример вывода при входных данных [in.txt](code/in.txt)
+    
 ### Запуск приложения
 #### Запуск программы с использованием `pthread`
 
