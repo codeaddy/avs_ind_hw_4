@@ -1,0 +1,7 @@
+(call started) - (2 and 6) at 0.023932
+(call started) - (4 and 5) at 0.023982
+(call ended) - (2 and 6) at 0.024080
+(call started) - (0 and 2) at 0.024567
+(call ended) - (4 and 5) at 0.024804
+(call ended) - (0 and 2) at 0.025293
+(call started) - (0 and 6) at 0.025657
